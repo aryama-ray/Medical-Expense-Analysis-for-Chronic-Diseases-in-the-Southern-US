@@ -60,3 +60,48 @@ Feature Engineering
         ↓
 Final Output
 • Preprocessed dataset ready for EDA & modeling
+```
+---
+
+## 🛠️ Tools & Technologies
+
+Python: pandas, numpy, seaborn, scikit-learn
+
+Power BI: Interactive dashboard visualizations
+
+Jupyter Notebook: EDA and modeling environment
+
+Git & GitHub: Version control
+
+## 🔍 Exploratory Data Analysis & Hypothesis Testing
+We explored relationships between chronic disease costs and variables like:
+
+ - Insurance Type
+
+ - Income Group
+
+ - Age Group
+
+ - Disease Type
+
+ - Emergency Visits
+
+### Hypothesis Testing was conducted to assess:
+
+If insurance type influences out-of-pocket expenses
+
+If individuals with multiple comorbidities have significantly higher total expenses
+
+If income level and geography affect expenditure disparities
+
+Statistical Significance: All validated hypotheses had p-value < 0.05.
+
+## Key Insights
+Insurance coverage plays a critical role in reducing out-of-pocket expenses.
+
+Age and comorbidity levels are strong predictors of healthcare costs.
+
+Disparities exist in total expenditure based on income and geography.
+
+Policy optimizations can be targeted to underserved demographics to reduce cost burden.
+
